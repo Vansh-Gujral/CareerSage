@@ -1,0 +1,5 @@
+{
+  "name": "Career Pathway Chatbot",
+  "description": "A personalized career and education advisor website that provides roadmaps for desired careers. It includes an integrated AI chatbot powered by the Gemini API to answer user questions.",
+  "requestFramePermissions": []
+}
